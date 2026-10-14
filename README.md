@@ -93,38 +93,6 @@ Guests staying more than **seven weekend nights displayed cancellation rates nea
 
 ---
 
-# 🤖 Machine Learning Approach
-
-## Data Preparation
-
-The project followed an end-to-end machine learning workflow:
-
-```text
-Raw Booking Data
-       ↓
-Data Inspection
-       ↓
-Missing Value Treatment
-       ↓
-Feature Engineering
-       ↓
-Categorical Encoding
-       ↓
-Feature Scaling
-       ↓
-SMOTE Class Balancing
-       ↓
-Train / Test Split
-       ↓
-Model Training
-       ↓
-Model Evaluation
-       ↓
-Business Recommendations
-```
-
----
-
 ## ⚙️ Machine Learning Workflow
 
 ### Data Preprocessing
@@ -135,11 +103,6 @@ Business Recommendations
 * Label encoding
 * StandardScaler
 * SMOTE balancing
-
-### Train-Test Split
-
-* **Training Set → 80%**
-* **Testing Set → 20%**
 
 ---
 
