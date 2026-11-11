@@ -94,9 +94,7 @@ Guests staying more than **seven weekend nights displayed cancellation rates nea
 ---
 
 ## ⚙️ Machine Learning Workflow
-
-### Data Preprocessing
-
+----
 * Data preprocessing
 * Missing value treatment
 * Feature engineering
@@ -236,7 +234,6 @@ More accurate cancellation forecasting can also help hotels:
 **Data Analytics · Machine Learning · Predictive Analytics · Feature Engineering · Data Cleaning · EDA · Classification · Business Intelligence · Revenue Analytics · Business Recommendations**
 
 ---
-
 # 🚀 Future Enhancements
 
 * Deploy model using Streamlit
@@ -246,34 +243,10 @@ More accurate cancellation forecasting can also help hotels:
 * Real-time cancellation prediction API
 * Recommendation Engine for meal package
 
----
-
 # ⭐ Why This Project Matters
 
 This project demonstrates the ability to move beyond building a machine learning model and connect:
 
-**Data → Prediction → Business Decision → Financial Impact**
-
-The project combines technical machine learning capability with **business-oriented problem solving and revenue optimization**.
-
-| Capability                | Demonstrated |
-| :------------------------ | :----------: |
-| Python                    |       ✅      |
-| Pandas / NumPy            |       ✅      |
-| Data Cleaning             |       ✅      |
-| Exploratory Data Analysis |       ✅      |
-| Feature Engineering       |       ✅      |
-| Machine Learning          |       ✅      |
-| Classification            |       ✅      |
-| SMOTE                     |       ✅      |
-| Business Analysis         |       ✅      |
-| Revenue Optimization      |       ✅      |
-| Data Storytelling         |       ✅      |
-| Business Recommendations  |       ✅      |
----
-# 👤 About the Author
-
-## Philip Ibingha
 
 **Data Scientist | Predictive Analytics & Machine Learning**
 
